@@ -7,3 +7,7 @@ my_list[1] = 10
 print("Modified list is:", my_list)
 server.append("10.1.1.1")
 print("Modified list of servers:", server)
+print("Length of the server list is:", len(server))
+
+
+
