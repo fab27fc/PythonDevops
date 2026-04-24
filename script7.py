@@ -9,3 +9,4 @@ my_list.remove(3)
 print("The list after removing 3 is:", my_list)
 my_list[1] = 10
 print("The list after changing the second element to 10 is:", my_list)
+#Fabian's code
